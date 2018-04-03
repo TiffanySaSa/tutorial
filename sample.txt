@@ -1,3 +1,4 @@
 連猴子都懂的git命令
 add4
 commit
+push
