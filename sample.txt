@@ -1,3 +1,2 @@
 連猴子都懂的git命令
-add3
-pull
+add4
